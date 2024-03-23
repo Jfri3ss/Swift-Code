@@ -2,7 +2,7 @@
 //  Project 1 Quadratic Equation
 //  CodeCademy Code
 //
-//  Created by Steve Jobs on 3/23/24.
+//  Created by Jeremiah Fries on 3/23/24.
 //
 
 import Foundation
