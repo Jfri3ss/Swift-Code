@@ -42,7 +42,7 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ## Contact
 
-If you have any questions or just want to connect, you can reach me at [Jfri3s@proton.me](mailto:Jfri3s@Proton.me).
+If you have any questions or just want to connect, you can reach me at [E-Mail](mailto:Jfri3s@Proton.me).
 
 ---
 
