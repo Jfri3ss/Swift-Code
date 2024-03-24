@@ -1,7 +1,3 @@
-# Swift-Code
-Certainly! Here's a sample "ReadMe" description for your GitHub repository containing Swift code projects:
-
----
 
 # Swift Projects Repository
 
