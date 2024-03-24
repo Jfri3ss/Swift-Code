@@ -28,7 +28,7 @@ Welcome to my Swift Projects repository! This repository houses a collection of 
 To get started with any of these projects, simply clone the repository to your local machine and open the project in Xcode. Each project is contained within its own directory with a clear structure.
 
 ```bash
-git clone https://github.com/your-username/swift-projects.git
+git clone https://github.com/your-username/swift-code.git
 ```
 
 ## Prerequisites
