@@ -9,7 +9,7 @@ Welcome to my Swift Projects repository! This repository houses a collection of 
    - Features:
      - Loops through the alphabet, replaces the letters in a message and shifts down three letters from the original letter.   
      - Encrypts and decrypts messages from a String input.  
-   - Caesar's Cipher was made and run in codeCademy!
+   - Caesar's Cipher was made and run in CodeCademy!
 
 2. **Project Name 2**: Brief description of what the project does and its significance.
    - Features:
