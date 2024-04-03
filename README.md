@@ -5,7 +5,7 @@ Welcome to my Swift Projects repository! This repository houses a collection of 
 
 ## Projects Included
 
-1. **Caesar's Cipher**: Brief description of what the project does and its significance.
+1. **Caesar's Cipher**: The Caesar cipher functions by substituting each letter in the plaintext with another letter situated a consistent number of positions along the alphabet.
    - Features:
      - Loops through the alphabet, replaces the letters in a message and shifts down three letters from the original letter.   
      - Encrypts and decrypts messages from a String input.  
