@@ -1,15 +1,15 @@
 
 # Swift Projects Repository
 
-Welcome to my Swift Projects repository! This repository houses a collection of projects I've developed using Swift. From iOS applications to utility tools, these projects showcase my proficiency in Swift programming and my passion for building innovative solutions.
+Welcome to my Swift Projects repository! This repository houses a collection of projects I've developed using Swift. From iOS applications to utility tools, these projects showcase my proficiency in Swift programming and passion for building innovative solutions.
 
 ## Projects Included
 
-1. **Project Name 1**: Brief description of what the project does and its significance.
+1. **Caesar's Cipher**: Brief description of what the project does and its significance.
    - Features:
-     - Feature 1
-     - Feature 2
-   - Screenshots or GIFs (if applicable)
+     - Loops through the alphabet, replaces the letters in a message and shifts down three letters from the original letter.   
+     - Encrypts and decrypts messages from a String input.  
+   - Caesar's Cipher was made and run in codeCademy!
 
 2. **Project Name 2**: Brief description of what the project does and its significance.
    - Features:
@@ -21,7 +21,7 @@ Welcome to my Swift Projects repository! This repository houses a collection of 
 
 ## Getting Started
 
-To get started with any of these projects, simply clone the repository to your local machine and open the project in Xcode. Each project is contained within its own directory with a clear structure.
+To start with any of these projects, clone the repository to your local machine and open the project in Xcode. Each project has a clear structure and is contained within its own directory.
 
 ```bash
 git clone https://github.com/your-username/swift-code.git
