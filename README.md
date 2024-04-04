@@ -5,19 +5,20 @@ Welcome to my Swift Projects repository! This repository houses a collection of 
 
 ## Projects Included
 
-1. **Caesar's Cipher**: The Caesar cipher functions by substituting each letter in the plaintext with another letter situated a consistent number of positions along the alphabet.
+1. **Caesar's Cipher**: The Caesar cipher functions by substituting each letter in the plaintext with another letter in a consistent number of positions along the alphabet.
    - Features:
      - Loops through the alphabet, replaces the letters in a message and shifts down three letters from the original letter.   
      - Encrypts and decrypts messages from a String input.  
    - Caesar's Cipher was made and run in CodeCademy!
 
-2. **Project Name 2**: Brief description of what the project does and its significance.
+2. **Magic 8-Ball.swift**: Uses Swift switch statement conditionals and the Swift random number function to generate responses randomly, like a Magic-8 Ball. 
    - Features:
-     - Feature 1
-     - Feature 2
-   - Screenshots or GIFs (if applicable)
+     - Ask the Magic-8 Ball a question via string input in the code
+     - See the responses generated each time you run the program and ask a question.
+   - The Magic-8 ball code was made and ran in Codecademy!
 
-3. *(Add more projects as necessary)*
+
+3. *The remaining projects are to be added soon!*
 
 ## Getting Started
 
@@ -29,12 +30,12 @@ git clone https://github.com/your-username/swift-code.git
 
 ## Prerequisites
 
-- Xcode (version x.x or higher)
-- (Add any other prerequisites here)
+- Swift (version 5.0 or higher)
+- Xcode 15
 
 ## Contributing
 
-Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you find any bugs or have suggestions for improvement, open an issue or submit a pull request.
 
 ## License
 
@@ -42,7 +43,7 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ## Contact
 
-If you have any questions or just want to connect, you can reach me at [e-mail](mailto:Jfri3s@Proton.me).
+If you have any questions or want to connect, you can reach me at [e-mail](mailto:Jfri3s@Proton.me).
 
 ---
 
