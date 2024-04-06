@@ -16,9 +16,14 @@ Welcome to my Swift Projects repository! This repository houses a collection of 
      - Ask the Magic-8 Ball a question via string input in the code
      - See the responses generated each time you run the program and ask a question.
    - The Magic-8 ball code was made and ran in Codecademy!
+  
+3. **Magic 8-Ball.swift**: Uses Swift switch statement conditionals and the Swift random number function to generate responses randomly, like a Magic-8 Ball. 
+   - Features:
+     - Ask the Magic-8 Ball a question via string input in the code
+     - See the responses generated each time you run the program and ask a question.
+   - The Magic-8 ball code was made and ran in Codecademy!
 
-
-3. *The remaining projects are to be added soon!*
+4. *The remaining projects are to be added soon!*
 
 ## Getting Started
 
