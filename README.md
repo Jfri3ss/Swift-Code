@@ -17,11 +17,11 @@ Welcome to my Swift Projects repository! This repository houses a collection of 
      - See the responses generated each time you run the program and ask a question.
    - The Magic-8 ball code was made and ran in Codecademy!
   
-3. **Morse Decoder**: Uses Swift switch statement conditionals and the Swift random number function to generate responses randomly, like a Magic-8 Ball. 
+3. **Morse Decoder**: This program uses loops to decode Morse Code into English and serves as an introduction to Libraries in Swift.   
    - Features:
-     - Ask the Magic-8 Ball a question via string input in the code
-     - See the responses generated each time you run the program and ask a question.
-   - The Magic-8 ball code was made and ran in Codecademy!
+     - Input a code Morse code syntax with dots and dashes.    
+     - Run the program to see if the decoded text is interpreted in English. 
+   - The Morse Decoder code was made and ran in Codecademy!
 
 4. *The remaining projects are to be added soon!*
 
