@@ -1,5 +1,3 @@
-// Write your code below 🏦
-
 struct SwiftBank { 
 private let password: String 
 
