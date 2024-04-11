@@ -77,4 +77,4 @@ myAccount.makeDeposit(ofAmount: 50)
 myAccount.makeWithdrawal(ofAmount: 100, usingPassword: "Strong@")
 
 
-myAccount.displayBalance(usingPassword: "Deezz Nuts")
+myAccount.displayBalance(usingPassword: "Strong@Password1")
