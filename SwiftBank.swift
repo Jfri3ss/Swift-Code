@@ -2,7 +2,7 @@ struct SwiftBank {
 private let password: String 
 
 init(password: String, initialDeposit: Double) { 
-  self.password = "Deezz Nuts"
+  self.password = "Strong@Password1"
   //Function call inside init method, after password is initalized
   makeDeposit(ofAmount: initialDeposit)
 }
@@ -21,7 +21,7 @@ private var balance: Double = 0 {
 didSet {
   if balance < 100 { 
   displayLowBalanceMessage()
-  }
+    }
   }
 }
 
@@ -29,17 +29,18 @@ static let depositBonusRate = 0.01
 
 //Function 2 finalDepositWithBonus
 private func finalDepositWithBonus(fromInitialDeposit deposit: Double) -> Double {
-  var depositPlusBonus = ((deposit * SwiftBank.depositBonusRate) + deposit)
+  let deposit = deposit + (deposit * SwiftBank.depositBonusRate)
   return deposit
 }
 
 
 //Function 3 makeDeposit
-  mutating func makeDeposit(ofAmount deposit: Double) {
-    finalDepositWithBonus(fromInitialDeposit: deposit)
-      let depositWithBonus = deposit
-      print("Making a deposit of \(deposit) with a bonus rate. The final amount deposited is \(depositWithBonus)")
-      balance = depositWithBonus
+  mutating func makeDeposit(ofAmount depositAmount: Double) {
+    finalDepositWithBonus(fromInitialDeposit: depositAmount)
+      let depositWithBonus = depositAmount
+      print("Making a deposit of \(depositAmount) with a bonus rate. The final amount deposited is \(depositWithBonus)")
+      balance += depositWithBonus
+      //print(depositWithBonus)
 }
 
 
@@ -69,16 +70,11 @@ print("Alert: Your balance is under $100")
   }
 }
 
-var myAccount = SwiftBank(password: "Deezz Nuts", initialDeposit: 500)
+var myAccount = SwiftBank(password: "Strong@Password1", initialDeposit: 500)
 
-//myAccount = SwiftBank(password: "Deezz Nuts", initialDeposit: 50)
+myAccount.makeDeposit(ofAmount: 50) 
 
-
-
-
+myAccount.makeWithdrawal(ofAmount: 100, usingPassword: "Strong@")
 
 
-
-
-
-
+myAccount.displayBalance(usingPassword: "Deezz Nuts")
