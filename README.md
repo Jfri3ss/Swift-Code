@@ -11,13 +11,13 @@ Welcome to my Swift Projects repository! This repository houses a collection of 
      - Encrypts and decrypts messages from a String input.  
    - Caesar's Cipher was made and run in CodeCademy!
 
-2. **Magic 8-Ballt**: Uses Swift switch statement conditionals and the Swift random number function to generate responses randomly, like a Magic-8 Ball. 
+2. **Magic 8-Ballt**: This method uses Swift switch statement conditionals and the Swift random number function to generate responses randomly, like a Magic-8 Ball. 
    - Features:
      - Ask the Magic-8 Ball a question via string input in the code
      - See the responses generated each time you run the program and ask a question.
    - The Magic-8 ball code was made and ran in Codecademy!
   
-3. **Morse Decoder**: This program uses loops to decode Morse Code into English and serves as an introduction to Libraries in Swift.   
+3. **Morse Decoder**: This program uses loops to decode Morse Code into English and introduces Libraries in Swift.   
    - Features:
      - Input a code Morse code syntax with dots and dashes.    
      - Run the program to see if the decoded text is interpreted in English. 
@@ -52,4 +52,4 @@ If you have any questions or want to connect, you can reach me at [e-mail](mailt
 
 ---
 
-Feel free to customize this template according to your specific projects and preferences. Ensure to replace placeholder text with actual details relevant to your repository.Swift Code
+Feel free to customize this template according to your specific projects and preferences. Ensure to replace placeholder text with actual details relevant to your repository.swift Code
