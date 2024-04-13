@@ -31,6 +31,7 @@ var charmander = Pokemon(num: 4, name: "Charmander", type: ["Fire 🔥"], abilit
 
 var squirtle = Pokemon(num: 7, name: "Squirtle", type: ["Water 💧"], ability: ["Torrent"])
 
+
 class GigantamaxPokemon: Pokemon { 
   var location = "" 
 
@@ -48,23 +49,12 @@ class GigantamaxPokemon: Pokemon {
     super.init(num: num, name: name, type: type, ability: ability) 
     self.location = location
     }
-
-
 }
-
-bulbasaur.displayInfo()
-charmander.displayInfo()
-squirtle.displayInfo()
-GigantamaxPokemon.displayInfo()
-
 
 var charizard = GigantamaxPokemon(num: 6, name: "Charizard", type: ["Fire 🔥"], ability: ["Blaze"], location: "Lake of Outrage")
 
 
-
-
-
-
-
-
-
+bulbasaur.displayInfo()
+charmander.displayInfo()
+squirtle.displayInfo()
+charizard.displayInfo()
