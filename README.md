@@ -23,7 +23,11 @@ Welcome to my Swift Projects repository! This repository houses a collection of 
      - Run the program to see if the decoded text is interpreted in English. 
    - The Morse Decoder code was made and ran in Codecademy!
 
-4. *The remaining projects are to be added soon!*
+4. **Morse Decoder**: This program uses loops to decode Morse Code into English and introduces Libraries in Swift.   
+   - Features:
+     - Input a code Morse code syntax with dots and dashes.    
+     - Run the program to see if the decoded text is interpreted in English. 
+   - The Morse Decoder code was made and ran in Codecademy!
 
 ## Getting Started
 
